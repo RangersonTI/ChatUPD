@@ -5,11 +5,10 @@ import threading
 host = '192.168.1.104'  # Endereço IP do servidor
 porta = 12345  # Porta do servidor
 
-# Lista de amigos
+# Lista de participantes
 participantes = {
     'Rangerson':'192.168.1.104',
     'PC2-ranger':'192.168.1.106',
-    # já que eu fiz o código em casa não pude salvar o contatos de amigos
 }
 
 # Cria um objeto socket UDP
